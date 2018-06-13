@@ -1,0 +1,1 @@
+<cfpdf action="deletepages" pages="2-3" source="source.pdf" destination="output.pdf" overwrite="yes">

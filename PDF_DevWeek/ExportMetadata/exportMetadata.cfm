@@ -1,0 +1,1 @@
+<cfpdf action="export" type="metadata" source="#ExpandPath('..\Files\P_and_L_WithAttachments_Redacted_Stamped.pdf')#" exportto="#ExpandPath('..\Files\allMetadata.xmp')#" overwrite="true" />
